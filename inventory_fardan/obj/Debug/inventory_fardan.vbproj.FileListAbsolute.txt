@@ -1,0 +1,52 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\inventory_fardan\bin\Debug\inventory_fardan.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\inventory_fardan\bin\Debug\inventory_fardan.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\inventory_fardan\bin\Debug\inventory_fardan.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\inventory_fardan\bin\Debug\inventory_fardan.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\inventory_fardan\obj\Debug\inventory_fardan.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\inventory_fardan\obj\Debug\inventory_fardan.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\inventory_fardan\obj\Debug\inventory_fardan.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\inventory_fardan\obj\Debug\inventory_fardan.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\inventory_fardan\obj\Debug\inventory_fardan.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\inventory_fardan\obj\Debug\inventory_fardan.pdb
+C:\Users\Administrator\Documents\TA_01\inventory_fardan\inventory_fardan\bin\Debug\inventory_fardan.exe.config
+C:\Users\Administrator\Documents\TA_01\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.exe
+C:\Users\Administrator\Documents\TA_01\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.xml
+C:\Users\Administrator\Documents\TA_01\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.pdb
+C:\Users\Administrator\Documents\TA_01\inventory_fardan\inventory_fardan\bin\Debug\inventory_fardan.exe
+C:\Users\Administrator\Documents\TA_01\inventory_fardan\inventory_fardan\bin\Debug\inventory_fardan.pdb
+C:\Users\Administrator\Documents\TA_01\inventory_fardan\inventory_fardan\bin\Debug\inventory_fardan.xml
+C:\Users\Administrator\Documents\TA_01\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Admin.resources
+C:\Users\Administrator\Documents\TA_01\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Barang.resources
+C:\Users\Administrator\Documents\TA_01\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Form1.resources
+C:\Users\Administrator\Documents\TA_01\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Login.resources
+C:\Users\Administrator\Documents\TA_01\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Resources.resources
+C:\Users\Administrator\Documents\TA_01\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Supplier.resources
+C:\Users\Administrator\Documents\TA_01\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\bin\Debug\inventory_fardan.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\bin\Debug\inventory_fardan.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\bin\Debug\inventory_fardan.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\bin\Debug\inventory_fardan.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Admin.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Barang.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Login.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Supplier.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.vbproj.GenerateResource.Cache
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\bin\Debug\inventory_fardan.exe.config
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.exe
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.xml
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.pdb
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\bin\Debug\inventory_fardan.exe
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\bin\Debug\inventory_fardan.pdb
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\bin\Debug\inventory_fardan.xml
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Admin.resources
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Barang.resources
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Form1.resources
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Login.resources
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Resources.resources
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.Supplier.resources
+C:\Users\MFard\OneDrive\Documents\Visual Studio 2012\Projects\inventory_fardan\inventory_fardan\obj\Debug\inventory_fardan.vbproj.GenerateResource.Cache
